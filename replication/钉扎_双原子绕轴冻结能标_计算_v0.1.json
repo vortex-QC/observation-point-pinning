@@ -1,0 +1,17 @@
+{
+ "I_perp_gcm2": 2.643874667497045e-40,
+ "B_perp_calc": 10.5878,
+ "B_nist": 10.59342,
+ "dev_frac": 0.000533,
+ "I_axis_gcm2": 1.8218767400000002e-43,
+ "r_e_assumed_cm": 1e-08,
+ "B_axis_calc": 15364.8,
+ "E1_perp_cm": 21.176,
+ "E1_axis_cm": 30730.0,
+ "E1_perp_K": 30.47,
+ "E1_axis_K": 44213.0,
+ "ratio": 1451.0,
+ "T_room_K": 300,
+ "C1_pass": true,
+ "C2_pass": true
+}
